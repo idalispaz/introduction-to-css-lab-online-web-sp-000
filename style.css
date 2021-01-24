@@ -19,10 +19,10 @@ div {
   /* Your code here! */
   color:red;
   font-size: 22px;
-  .perspective-questions
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
+  font-family: italic;
 }
